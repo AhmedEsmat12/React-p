@@ -7,7 +7,7 @@ const Profile=()=>
     const [c,setList]=useState([]);
     useEffect(()=>
     {
-        axios.get("template-with-react/json/data.json").then(item =>
+        axios.get("json/data.json").then(item =>
             {
                 setList(item.data.profile)
             })
