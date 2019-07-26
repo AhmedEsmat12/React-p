@@ -1,0 +1,67 @@
+.profile
+{
+    overflow: hidden;
+}
+.info
+{
+    width: 50%;
+    float: left;
+}
+.info h1
+{
+    text-transform: capitalize;
+    font-size: 37px;
+}
+.info span
+{
+
+font-weight: bold;
+}
+.info div
+{
+    text-transform: capitalize;
+    overflow: hidden;
+    margin-bottom: 5px;
+
+}
+.info p
+{
+    display: inline;
+    margin: 0;
+    margin-left: 218px;
+}
+.skill
+{
+    width: 50%;
+    float: left;
+}
+.skill h1
+{
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.skill p
+{
+    font-size: 14px;
+    color: #758686;
+}
+.skill ul 
+{
+    list-style: none;
+}
+.skill ul li
+{
+    font-size: 20px;
+    text-transform: capitalize; 
+}
+.skill hr
+{
+    border: 5px solid orange;
+    float: left;
+}
+.skill ul li span
+{
+    float: right;  
+}
+
+ 

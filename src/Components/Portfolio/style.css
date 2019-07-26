@@ -1,0 +1,69 @@
+.portfolio
+{
+    margin-bottom: 30px;
+    height: 615px;
+    background: #f1eded;
+}
+.portfolio h1{
+    text-align: center;
+    font-size: 34px;
+    text-transform: capitalize;
+}
+.portfolio ul
+{
+    list-style: none;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.portfolio ul li
+{
+   
+    text-transform: capitalize;
+    margin-left: 20px;
+    display: inline;
+    padding: 10px 40px;
+    cursor: pointer;
+}
+.portfolio ul li:first-child
+{
+    color: white;
+    background: orange;
+
+}
+.portfolio .port
+{
+    position: relative;
+    width: 25%;
+    height: 250px;
+    float: left;
+}
+.port .overlay
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: orange;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+}
+.port .overlay:hover
+{
+    opacity: .8;
+}
+.port .overlay button
+{
+    border: 2px solid red;
+    background: white;
+    padding: 15px 17px;
+    margin: 32% 79px;
+    cursor: pointer;
+}
+.portfolio img
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,32 @@
+.about
+{
+    background-attachment: fixed;
+    background-image: url('./about-bg.jpg');
+    height: 300px;
+    padding: 100px 50px;
+    background-size:cover; 
+}
+.about div
+{
+    font-size: 40px;
+}
+.about h1
+{
+    color: orange;
+    margin: 5px;
+}
+.about div ,.about h1,.about p
+{
+    width: 40%;
+    margin-left: 626px;
+}
+.about p
+{
+    color: #c4c7c7;
+    font-size: 14px;
+}
+.about a
+{
+    text-decoration: none;
+}
+

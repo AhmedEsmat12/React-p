@@ -1,0 +1,53 @@
+.e
+{
+    height: 250px;
+}
+.social
+{
+    background: red;
+    width: 33%;
+    height: 250px;
+    
+}
+.e .social 
+{
+    width: 33.33%;
+    float: left;
+}
+.social>div
+{
+    width: 50%;
+}
+.social div:first-child
+{
+    float: left;
+}
+.social div:last-child
+{
+    float: right;
+}
+.social i
+{
+    background: white;
+    margin: 104px 118px;
+     padding: 15px;
+}
+.social div p:first-child
+{
+    margin-top: 104px;
+    margin-bottom: 5px;
+    color: white;
+}
+.social div p:last-child
+{
+    margin-top: 5px;
+    color: white;
+}
+.e .social:nth-child(2)
+{
+    background: gold
+}
+.e .social:nth-child(3)
+{
+    background: silver
+}

@@ -1,0 +1,43 @@
+.work
+{
+    margin-bottom: 40px
+}
+.work .container
+{
+    overflow: hidden;
+}
+.work h2
+{
+    font-size: 60px;
+    text-transform: capitalize;
+}
+.work .container >div
+{
+    width: 30%;
+    height: auto;
+    border: 1px solid black;
+    float: left;
+    margin-right: 30px;
+    text-align: center;
+    padding: 80px 0px;
+}
+.work .container i
+{
+    color: #888;
+}
+.work .container h4
+{
+    color: orange;
+    font-size: 28px;
+    text-transform: capitalize;
+}
+.work .container hr
+{
+    width: 75%;
+}
+.work .container p
+{
+    font-size: 14px;
+    color: #888;
+
+}

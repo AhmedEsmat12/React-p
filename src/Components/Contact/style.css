@@ -1,0 +1,35 @@
+.contact
+{
+    margin: 10px 20%;
+}
+.contact h1{
+    text-align: center;
+    font-size: 52px;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+.contact input
+{
+    width: 45%;
+    height: 26px;
+    margin-left: 24px;
+    margin-bottom: 15px;
+}
+.contact input:nth-child(3)
+{
+    width: 94%
+}
+.contact textarea
+{
+    width: 94%;
+    height: 140px;
+    margin-left: 24px;
+    margin-bottom: 15px;
+    background: #bdb7b7;
+}
+.contact button
+{
+    width: 50%;
+    margin: 0px 24%;
+    cursor: pointer;
+}

@@ -1,0 +1,54 @@
+
+.home{
+ background-image: url('./home-bg.jpg');
+ background-size:cover;
+ background-position:center;
+ padding: 50px 0px;  
+ margin-bottom: 20px;
+}
+.home-info
+{
+    text-align: center;
+    text-align: center;
+    width: 634px;
+    margin: 0px auto;
+}
+.home-info h2
+{
+    color: #5e5e5e;
+    font-size: 50px;
+    margin:0px;
+    text-transform: capitalize;
+}
+.home-info h3
+{
+    color: #e89a0a;
+    font-size: 35px;
+    margin: 0px 0px 20px 0px;
+    text-transform: capitalize;
+}
+.home-info p 
+{
+    font-size: 20px;
+    color: #9c9292;
+}
+.home-info p span
+{
+    color: black
+}
+.home-info button
+{
+    border: none;
+    width: 120px;
+    padding: 14px;
+    background: orange;
+    color: white;
+    text-transform: capitalize;
+    font-size: 16px;
+    cursor: pointer;
+}
+.home-info button:hover
+{
+    background: white;
+    color: orange;  
+}
