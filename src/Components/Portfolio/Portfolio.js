@@ -6,7 +6,7 @@ const Portfolio=()=>
     const [image,setImage]=useState([]);
     useEffect(()=>
     {
-        axios.get('json/data.json').then((res)=>{setImage(res.data.portfolio)})
+        axios.get('https://github.com/AhmedEsmat12/template-with-react/blob/master/public/json/data.json').then((res)=>{setImage(res.data.portfolio)})
     },[])
     const rrrr=image.map((item)=>
     {
