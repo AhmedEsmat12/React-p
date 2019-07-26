@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ahmedesmat12.github.io.template-with-react",
+  "homepage": "https://ahmedesmat12.github.io/template-with-react",
   "name": "reacttemplate",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "deploy": "gh-pages -d reacttemplate",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
