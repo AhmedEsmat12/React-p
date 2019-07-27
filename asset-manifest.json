@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-p/static/css/main.b822531b.chunk.css",
-    "main.js": "/React-p/static/js/main.8e273018.chunk.js",
-    "main.js.map": "/React-p/static/js/main.8e273018.chunk.js.map",
-    "runtime~main.js": "/React-p/static/js/runtime~main.9f57d0ad.js",
-    "runtime~main.js.map": "/React-p/static/js/runtime~main.9f57d0ad.js.map",
-    "static/js/2.20b968e4.chunk.js": "/React-p/static/js/2.20b968e4.chunk.js",
-    "static/js/2.20b968e4.chunk.js.map": "/React-p/static/js/2.20b968e4.chunk.js.map",
-    "index.html": "/React-p/index.html",
-    "precache-manifest.47012035c339d709fbf4983f334ef134.js": "/React-p/precache-manifest.47012035c339d709fbf4983f334ef134.js",
-    "service-worker.js": "/React-p/service-worker.js",
-    "static/css/main.b822531b.chunk.css.map": "/React-p/static/css/main.b822531b.chunk.css.map",
-    "static/media/style.css": "/React-p/static/media/home-bg.6b1d7b92.jpg"
+    "main.css": "/React-p/home/static/css/main.94defea0.chunk.css",
+    "main.js": "/React-p/home/static/js/main.b6ac65cc.chunk.js",
+    "main.js.map": "/React-p/home/static/js/main.b6ac65cc.chunk.js.map",
+    "runtime~main.js": "/React-p/home/static/js/runtime~main.e9c46ecb.js",
+    "runtime~main.js.map": "/React-p/home/static/js/runtime~main.e9c46ecb.js.map",
+    "static/js/2.20b968e4.chunk.js": "/React-p/home/static/js/2.20b968e4.chunk.js",
+    "static/js/2.20b968e4.chunk.js.map": "/React-p/home/static/js/2.20b968e4.chunk.js.map",
+    "index.html": "/React-p/home/index.html",
+    "precache-manifest.f2d36588deb6774f28eb9adeaba09c6b.js": "/React-p/home/precache-manifest.f2d36588deb6774f28eb9adeaba09c6b.js",
+    "service-worker.js": "/React-p/home/service-worker.js",
+    "static/css/main.94defea0.chunk.css.map": "/React-p/home/static/css/main.94defea0.chunk.css.map",
+    "static/media/style.css": "/React-p/home/static/media/home-bg.6b1d7b92.jpg"
   }
 }
