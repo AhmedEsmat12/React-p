@@ -10,7 +10,7 @@ const Navbar=()=>
                 <span>ultra profile</span>
             </div>
             <ul>
-                <li><Link to="/">Home</Link></li>
+                <li><Link to="/home">Home</Link></li>
                 <li><a href="#">Work</a></li>
                 <li><a href="#">Portfolio</a></li>
                 <li><a href="#">Resume</a></li>

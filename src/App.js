@@ -9,7 +9,7 @@ class App extends Component{
   return (
           <BrowserRouter>
           <Navbar />
-          <Route exact path="/" component={Index}/>
+          <Route exact path="/home" component={Index}/>
           <Route path="/contact" component={Contact}/>
             </BrowserRouter>
 
